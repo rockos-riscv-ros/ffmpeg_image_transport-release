@@ -1,3 +1,26 @@
+## ffmpeg_image_transport (jazzy) - 2.0.1-1
+
+The packages in the `ffmpeg_image_transport` repository were released into the `jazzy` distro by running `/home/z572/gits/rockos-ros/venv/bin/bloom-release -r jazzy ffmpeg_image_transport --override-release-repository-push-url git@github.com:rockos-riscv-ros/ffmpeg_image_transport-release.git` on `Fri, 21 Mar 2025 07:52:13 -0000`
+
+The `ffmpeg_image_transport` package was released.
+
+Version of package(s) in repository `ffmpeg_image_transport`:
+
+- upstream repository: https://github.com/ros-misc-utilities/ffmpeg_image_transport.git
+- release repository: https://github.com/rockos-riscv-ros/ffmpeg_image_transport-release.git
+- rosdistro version: `2.0.1-1`
+- old version: `1.0.2-1`
+- new version: `2.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ffmpeg_image_transport (rolling) - 1.0.2-1
 
 The packages in the `ffmpeg_image_transport` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --edit-track --rosdistro rolling ffmpeg_image_transport` on `Fri, 07 Mar 2025 16:38:53 -0000`
